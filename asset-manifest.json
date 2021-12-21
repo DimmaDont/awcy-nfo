@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/awcy-nfo/static/css/main.5838d019.chunk.css",
+    "main.js": "/awcy-nfo/static/js/main.d19bd6b1.chunk.js",
+    "main.js.map": "/awcy-nfo/static/js/main.d19bd6b1.chunk.js.map",
+    "runtime-main.js": "/awcy-nfo/static/js/runtime-main.a8a93e7b.js",
+    "runtime-main.js.map": "/awcy-nfo/static/js/runtime-main.a8a93e7b.js.map",
+    "static/js/2.4f38c9f3.chunk.js": "/awcy-nfo/static/js/2.4f38c9f3.chunk.js",
+    "static/js/2.4f38c9f3.chunk.js.map": "/awcy-nfo/static/js/2.4f38c9f3.chunk.js.map",
+    "index.html": "/awcy-nfo/index.html",
+    "static/css/main.5838d019.chunk.css.map": "/awcy-nfo/static/css/main.5838d019.chunk.css.map",
+    "static/js/2.4f38c9f3.chunk.js.LICENSE.txt": "/awcy-nfo/static/js/2.4f38c9f3.chunk.js.LICENSE.txt",
+    "static/media/awcy_wordmark_hwite.d865a042.svg": "/awcy-nfo/static/media/awcy_wordmark_hwite.d865a042.svg",
+    "static/media/main.scss": "/awcy-nfo/static/media/liberationmono-regular-webfont.d798517d.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8a93e7b.js",
+    "static/js/2.4f38c9f3.chunk.js",
+    "static/css/main.5838d019.chunk.css",
+    "static/js/main.d19bd6b1.chunk.js"
+  ]
+}
